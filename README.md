@@ -1,11 +1,12 @@
 ## Hello
-My name is Allan Pearl. I'm a 3rd Year computer science student, with an interest in low-level / systems programming.\n\n
+My name is Allan Pearl. I'm a 3rd Year computer science student, with an interest in low-level / systems programming.
 
 I'm currently working on:
-- [A CLI meal tracker program](https://github.com/jrjackx/simple_meal_tracker) with only libc dependencies, and\n
+- [A CLI meal tracker program](https://github.com/jrjackx/simple_meal_tracker) with only libc dependencies, and
 - [Text Editor From Scratch](https://github.com/jrjackx/my_kilo), an auxiliary project I'm doing to better understand low-level terminal input.
 
-You can reach me at my email, allan.pearl04@gmail.com,\n as well as through my school email pearla3761@uhcl.edu
+You can reach me at my email, allan.pearl04@gmail.com,
+as well as through my school email pearla3761@uhcl.edu
 <!--
 **jrjackx/jrjackx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
