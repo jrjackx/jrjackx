@@ -1,13 +1,14 @@
 ## Hello
-My name is Allan Pearl. I'm a Senior computer science student projected to graduate in the Summer of 2027. I have an interest in low-level / systems programming, as well as IT / Sysadmin work.
+My name is Allan Pearl. I'm a senior computer science student projected to graduate in the Summer of 2027. I have an interest in low-level / systems programming, as well as IT / Sysadmin work.
 
 Projects I'm working on:
 [my home lab](https://github.com/jrjackx/homelab-docs) sees occasional updates and maintenance.
 TODO LINK THE PARSER
 
 Projects I've finished:
-- [A CLI meal tracker program](https://github.com/jrjackx/simple_meal_tracker) with only libc dependencies, and
-- [Text Editor From Scratch](https://github.com/jrjackx/my_kilo), an auxiliary project I'm doing to better understand low-level terminal input. TODO CHANGE THIS TO icuf
+- [A CLI meal tracker program](https://github.com/jrjackx/simple_meal_tracker) with only libc dependencies.
+- [Text Editor From Scratch](https://github.com/jrjackx/my_kilo), an auxiliary project to better understand low-level terminal input. ABANDONED.
+- TODO PUT IN icuf SOURCE CODE.
 
 You can reach me at my email, allan.pearl04@gmail.com,
 as well as through my school email pearla3761@uhcl.edu
