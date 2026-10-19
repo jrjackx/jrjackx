@@ -1,9 +1,12 @@
 ## Hello
 My name is Allan Pearl. I'm a 3rd Year computer science student. I have an interest in low-level / systems programming, as well as IT / Sysadmin work.
 
-I'm currently working on:
+Projects I'm working on:
+TODO LINK THE PARSER
+
+Projects I've finished:
 - [A CLI meal tracker program](https://github.com/jrjackx/simple_meal_tracker) with only libc dependencies, and
-- [Text Editor From Scratch](https://github.com/jrjackx/my_kilo), an auxiliary project I'm doing to better understand low-level terminal input.
+- [Text Editor From Scratch](https://github.com/jrjackx/my_kilo), an auxiliary project I'm doing to better understand low-level terminal input. TODO CHANGE THIS TO icuf
 - Carefully reading through "Computer Systems: A Programmer's Perspective," by Randal E. Bryant and David R. O'Hallaron. This is outside of classwork.
 
 You can reach me at my email, allan.pearl04@gmail.com,
