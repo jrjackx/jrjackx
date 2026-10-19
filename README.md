@@ -2,6 +2,7 @@
 My name is Allan Pearl. I'm a senior computer science student projected to graduate in the Summer of 2027. I have an interest in low-level / systems programming, as well as IT / Sysadmin work.
 
 Projects I'm working on:
+
 [my home lab](https://github.com/jrjackx/homelab-docs) sees occasional updates and maintenance.
 TODO LINK THE PARSER
 
