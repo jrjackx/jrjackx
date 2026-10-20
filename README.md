@@ -3,7 +3,7 @@ My name is Allan Pearl. I'm a senior computer science student projected to gradu
 
 Projects I'm working on:
 - [my home lab](https://github.com/jrjackx/homelab-docs) sees occasional updates and maintenance.
-- TODO LINK THE PARSER
+- [hawk parser], my term project for the Programming Language Concepts class. Features double pointers and extensive recursion!
 
 Projects I've finished:
 - [A CLI meal tracker program](https://github.com/jrjackx/simple_meal_tracker) with only libc dependencies.
